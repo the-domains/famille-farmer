@@ -2,12 +2,13 @@ name: Famille Farmer
 favicon: null
 layout_spectrum: 0.8239869847893715
 typography_spectrum: 0.7402116488665342
+title: Famille Farmer
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-5100962-1
   facebook: null
   twitter: null
 opengraph:
